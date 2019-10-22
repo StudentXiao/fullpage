@@ -1,0 +1,7 @@
+import "@babel/polyfill"
+import "./business/home"
+import "./business/works"
+import "./business/team"
+import "./business/course"
+import "./business/about"
+import "./frame/frame"
